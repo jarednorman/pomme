@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'pomme'
+
+Pomme::Cli.start(ARGV)

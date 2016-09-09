@@ -6,10 +6,9 @@
 
 ## Usage
 
-    $ pomme daemon
     $ pomme start "Bring forth an ancient monster from the mystic realm."
     $ pomme status
-    24:59 - Bring forth an ancient monster from the mystic realm.
+    Bring forth an ancient monster from the mystic realm. (0%)
 
 ## Development
 

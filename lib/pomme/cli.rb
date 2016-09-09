@@ -47,6 +47,7 @@ module Pomme
         seconds_breaking = seconds_since_start - twenty_five_minutes
         puts "Break: #{Time.at(seconds_breaking).utc.strftime("%H:%M:%S")}"
       end
+      STDOUT.flush
     end
   end
 end
